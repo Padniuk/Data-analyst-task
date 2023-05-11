@@ -1,0 +1,1 @@
+from .game import Game, game_genres, platforms
